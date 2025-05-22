@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>AnprPlateRelayService.ConsoleTest</RootNamespace>
+    <AssemblyName>AnprPlateRelayService.ConsoleTest</AssemblyName>
+    <Platforms>x86;x64</Platforms>
+  </PropertyGroup>
+</Project>

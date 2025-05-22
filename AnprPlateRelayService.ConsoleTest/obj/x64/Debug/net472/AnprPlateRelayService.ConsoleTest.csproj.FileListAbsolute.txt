@@ -1,0 +1,10 @@
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\bin\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.exe.config
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\bin\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.exe
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\bin\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.pdb
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.csproj.AssemblyReference.cache
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.AssemblyInfoInputs.cache
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.AssemblyInfo.cs
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.csproj.CoreCompileInputs.cache
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.exe
+C:\My Projects\modbus_test\.NET\WrapperService\AnprPlateRelayService.ConsoleTest\obj\x64\Debug\net472\AnprPlateRelayService.ConsoleTest.pdb
