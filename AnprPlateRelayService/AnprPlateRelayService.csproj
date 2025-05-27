@@ -19,7 +19,6 @@
     <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Xml" />
-    <Reference Include="MySql.Data" Version="8.3.0" />
   </ItemGroup>
 
   <ItemGroup>

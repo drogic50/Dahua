@@ -5,8 +5,5 @@
     <Compile Update="PlateRelayService.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Update="ProjectInstaller.cs">
-      <SubType>Component</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
